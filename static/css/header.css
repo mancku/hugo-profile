@@ -1,4 +1,5 @@
 header {
+    height: var(--header-heigth);
     z-index: 10;
     position: relative;
 }
